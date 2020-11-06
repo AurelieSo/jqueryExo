@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $('li').css('color', 'red');
+    $('ul>li').css('color', 'red');
 })

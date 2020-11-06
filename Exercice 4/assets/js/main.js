@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $('#firstText').remove();
-    $('#secondtext').empty();
+    $('#firstText').empty();
+    $('#secondText').remove();
 })
 
 // La méthode remove () supprime les éléments inclus, y compris tout le texte et les nœuds enfants.

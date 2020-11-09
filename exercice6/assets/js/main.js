@@ -1,6 +1,6 @@
 // version1
 // $ pour dire qu'on est en jquery
-// pour dire d'attendre que e doc soit chargé avant de faire la function
+// pour dire d'attendre que le doc soit chargé avant de faire la function
 $(document).ready(function(){
     // quand je passe sur l'image dont l'id est lion avec la souris
     $("#lion").mouseover(function(){
